@@ -1,0 +1,8 @@
+{
+  "name": "NATAL EM SEIS TRAÇOS",
+  "description": "Página de vendas oficial do produto digital Natal em Seis Traços: 100 atividades natalinas para imprimir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
